@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ALC4 Phase 1</string>
+    <string name="about_alc">About ALC</string>
+    <string name="my_profile">My Profile</string>
+    <string name="my_details">
+        Track:   Android
+        \n\n
+        Country:   Kenya
+        \n\n
+        Email:   onteripaul@gmail.com
+        \n\n
+        Phone number:   +254703130580
+        \n\n
+        Slack Username:   Paul Onteri
+
+    </string>
+</resources>
