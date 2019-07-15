@@ -35,14 +35,6 @@ public class Web extends AppCompatActivity {
         webView.setWebViewClient(new WebViewClient());
         webView.loadUrl("https://andela.com/alc/");
 
-
-//        handles Failed to validate the certificate chain error
-//        webView.setWebViewClient(new WebViewClient() {
-//            @Override
-//            public void onReceivedSslError(WebView view, SslErrorHandler handler, SslError error){
-//                handler.proceed();
-//            }
-//        });
     }
 
 }
